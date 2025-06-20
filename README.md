@@ -8,6 +8,8 @@ Web development remains one of the most popular and in-demand professions, and i
 
 In this article, we will look at 10 GitHub repositories that are essential for learning and mastering web development. These repositories are useful for beginners who want to learn the basics and for professionals who want to improve their skills and discover new techniques. They include courses, coding exercises, interview preparation, and project ideas, providing everything you need to become an expert in web development.
 
+---
+
 1. <b>30-seconds-of-code</b>
 
 This repository is a collection of short, reusable JavaScript code snippets that you can learn in 30 seconds or less. It's perfect for sharpening your JavaScript skills and discovering coding tricks you never knew existed.
@@ -16,7 +18,7 @@ Why It is Great: It’s beginner-friendly yet valuable for advanced developers, 
 
 Link: [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 
---
+---
 
 2. <b>HEAD</b>
 
@@ -26,7 +28,7 @@ Why It is Great:  Even experienced developers often overlook the importance of t
 
 Link: [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)
 
---
+---
 
 3. Web-Dev-For-Beginners
  
@@ -37,6 +39,27 @@ Why It is Great:  It covers the basics of HTML, CSS, and JavaScript, along with 
 
 Link: microsoft/Web-Dev-For-Beginners
 
---
+---
 
-4. 
+4. Front-End-Interview-Handbook
+
+This repository is packed with resources to prepare for front-end development interviews. It includes coding tips, common questions, and best practices for acing your next job interview.
+
+Why It is Great:  It is regularly updated with new interview questions and solutions from the community. This makes it an invaluable resource for engineers who want to land their dream job in front-end development.
+
+Link: yangshun/front-end-interview-handbook
+
+---
+
+5. Back-End-Developer-Interview-Questions
+ 
+
+This repository contains a list of back-end-related interview questions to help you prepare for technical interviews or test your knowledge.
+
+Why It is Great:  It is a fantastic way to practice and deepen your understanding of server-side concepts, databases, APIs, and more.
+
+Link: arialdomartini/Back-End-Developer-Interview-Questions
+
+---
+
+6.
