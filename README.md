@@ -4,7 +4,7 @@
 
 Learn web development skills through courses, exercises, interview questions, checklist, and project ideas.
 
-<img scr="https://www.kdnuggets.com/wp-content/uploads/awan_10_github_repositories_master_web_development_2025_1.png" alt="thumbnail" />
+<img scr="https://www.kdnuggets.com/wp-content/uploads/awan_10_github_repositories_master_web_development_2025_1.png" alt="thumbnails" />
 
 ![thumbnail](https://www.kdnuggets.com/wp-content/uploads/awan_10_github_repositories_master_web_development_2025_1.png) 
 
