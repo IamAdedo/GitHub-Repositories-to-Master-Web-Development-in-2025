@@ -1,7 +1,5 @@
 # GitHub Repositories to Master Web Development in 2025
 
----
-
 Learn web development skills through courses, exercises, interview questions, checklist, and project ideas.
 
 ![thumbnail](https://www.kdnuggets.com/wp-content/uploads/awan_10_github_repositories_master_web_development_2025_1.png) 
@@ -18,6 +16,7 @@ Why It is Great: It’s beginner-friendly yet valuable for advanced developers, 
 
 Link: [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 
+--
 
 2. <b>HEAD</b>
 
@@ -27,3 +26,17 @@ Why It is Great:  Even experienced developers often overlook the importance of t
 
 Link: [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)
 
+--
+
+3. Web-Dev-For-Beginners
+ 
+
+Created by Microsoft, this repository offers a structured curriculum with 24 lessons over 12 weeks. It is designed to help absolute beginners get started with web development.
+
+Why It is Great:  It covers the basics of HTML, CSS, and JavaScript, along with practical exercises, making it ideal for those new to coding.
+
+Link: microsoft/Web-Dev-For-Beginners
+
+--
+
+4. 
