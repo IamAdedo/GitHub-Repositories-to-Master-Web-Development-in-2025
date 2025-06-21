@@ -1,5 +1,6 @@
 # GitHub Repositories to Master Web Development in 2025
 
+
 Learn web development skills through courses, exercises, interview questions, checklist, and project ideas.
 
 ![thumbnail](https://www.kdnuggets.com/wp-content/uploads/awan_10_github_repositories_master_web_development_2025_1.png) 
