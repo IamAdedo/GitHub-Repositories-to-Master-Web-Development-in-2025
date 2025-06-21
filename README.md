@@ -1,6 +1,5 @@
 # GitHub Repositories to Master Web Development in 2025
 
-
 Learn web development skills through courses, exercises, interview questions, checklist, and project ideas.
 
 ![thumbnail](https://www.kdnuggets.com/wp-content/uploads/awan_10_github_repositories_master_web_development_2025_1.png) 
@@ -104,7 +103,7 @@ This repository is a curated list of resources and patterns for building scalabl
 
 Why It is Great:  Web developers aiming to work on large-scale systems will benefit from the insights provided here, especially when dealing with complex architectures.
 
-Link: binhnguyennus/awesome-scalability
+Link: [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 
 # Final Thoughts
